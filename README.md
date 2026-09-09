@@ -1,2 +1,2 @@
-﻿# LLM Application Learning - Main Branch
+# LLM Application Learning
 Remote update practice.
