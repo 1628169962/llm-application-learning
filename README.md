@@ -1,2 +1,2 @@
-﻿# LLM Application Learning
+﻿# LLM Application Learning - Conflict Branch
 Remote update practice.
