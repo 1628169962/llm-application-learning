@@ -1,0 +1,5 @@
+[
+  {"model": "qwen", "score": 0.91, "latency": 1.2},
+  {"model": "deepseek", "score": 0.95, "latency": 2.1},
+  {"model": "demo", "score": 0.72, "latency": 0.8}
+]
