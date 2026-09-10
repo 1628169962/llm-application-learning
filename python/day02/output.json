@@ -1,0 +1,10 @@
+[
+  {
+    "model": "qwen",
+    "score": 0.91
+  },
+  {
+    "model": "deepseek",
+    "score": 0.95
+  }
+]
